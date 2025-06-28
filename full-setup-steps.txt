@@ -1,0 +1,7 @@
+1. Run 01-update-system.sh
+2. Run 02-disable-transparent-hugepages.sh
+3. Reboot
+4. Run 03-install-ntp.sh
+5. Run 04-set-swappiness.sh
+6. Run 05-install-psycopg2.sh
+7. Run 06-install-cloudera-manager.sh
